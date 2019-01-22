@@ -32,9 +32,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Difficulties experienced where :
-Trying to get the emulator to display the app
-Uploading the project to GitHub
+Difficulties experienced:
+1. Trying to get the emulator to display the app
+
+2. Uploading the project to GitHub
 
 ## License
 
