@@ -35,7 +35,9 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Difficulties experienced:
 1. Trying to get the emulator to display the app
 
-2. Uploading the project to GitHub
+2. When running the app, the title bar was not displayed
+
+3. Uploading the project to GitHub
 
 ## License
 
